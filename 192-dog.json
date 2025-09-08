@@ -32,7 +32,7 @@
   "meta": {
     "app": "https://github.com/piskelapp/piskel/",
     "version": "1.0",
-    "image": "https://raw.githubusercontent.com/kmlkucharczyk/pixel-dog/main/192-dog.png",
+    "image": "192-dog.png",
     "format": "RGBA8888",
     "size": {"w":768,"h":192}
   }
